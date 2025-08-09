@@ -1,0 +1,22 @@
+# Core Requirements
+alpaca-py>=0.18.0
+yfinance>=0.2.31
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# Technical Analysis
+ta>=0.10.0
+
+# Date/Time Handling
+python-dateutil>=2.8.2
+
+# HTTP Requests
+requests>=2.31.0
+
+# Optional (for colored output)
+colorama>=0.4.6
+termcolor>=2.3.0
+
+# Backtesting (optional)
+backtrader>=1.9.76.123

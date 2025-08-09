@@ -1,0 +1,29 @@
+📊 Comparison vs. SPY (Buy & Hold)
+Let’s check SPY's performance from 2024-07-01 to 2025-06-30 using a rough approximation (historical data lookup was done on June 2025):
+
+Date	SPY Price (Approx)
+2024-07-01	~$445
+2025-06-30	~$530
+
+Price Gain: 530 - 445 = +85
+
+Percentage Gain: (85 / 445) × 100 ≈ 19.1%
+
+
+📊 Final Comparison Summary
+Metric	EMA12/50 Strategy	SPY Buy & Hold
+Time Period	1 year	1 year
+Net Gain	~$180	~$85
+Percentage Gain (Est.)	+180%	+19%
+Max Drawdown (Visual)	~ -$150	Minimal
+Volatility	High	Low
+Risk-Adjusted Return (Sharpe)	Needs calculation	Stable
+
+Notes:
+- Validate autotrading with google colab
+- Will setup pipeline to gcp or azure
+- Fully automize with paper trading
+
+Following steps:
+- Completely automize the auto-trader
+- Switch to yahoo finance maybe
